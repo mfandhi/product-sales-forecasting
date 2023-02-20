@@ -1,4 +1,4 @@
-# product-sales-forecasting
+# Product Sales Forecasting
 
 The objective of this project is to develop a forecasting model that can accurately predict sales for the next 14 days. The model should be able to use historical sales data to identify patterns and trends, and make predictions based on those patterns. This will help the business to plan their inventory and staffing levels more effectively, ensuring that they are prepared for changes in demand.
 
